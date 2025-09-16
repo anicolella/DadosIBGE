@@ -1,0 +1,101 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Acessando os Dados do IBGE",
+    "section": "",
+    "text": "1 Prefácio",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Prefácio</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#motivação",
+    "href": "index.html#motivação",
+    "title": "Acessando os Dados do IBGE",
+    "section": "1.1 Motivação",
+    "text": "1.1 Motivação\nO acesso a bases de dados públicas do IBGE, como PNAD, POF, PNS e o Censo, é fundamental para análises econômicas e sociais de qualidade. No entanto, muitos estudantes e profissionais enfrentam dificuldades na extração, organização e manipulação dessas informações, o que limita o potencial de pesquisa e a construção de evidências robustas. Este projeto nasce da necessidade de democratizar o uso dessas bases, fornecendo materiais acessíveis que orientem o aprendizado prático em torno de variáveis-chave como educação, renda e condições de trabalho.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Prefácio</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#objetivo",
+    "href": "index.html#objetivo",
+    "title": "Acessando os Dados do IBGE",
+    "section": "1.2 Objetivo",
+    "text": "1.2 Objetivo\nNosso propósito é capacitar alunos, profissionais e pesquisadores a trabalhar com microdados do IBGE, desenvolvendo competências em manipulação, organização e análise estatística. O repositório servirá como guia prático, apresentando exemplos de como estruturar bases, construir indicadores e interpretar informações socioeconômicas. Além disso, o projeto busca estimular a autonomia dos interessados na realização de trabalhos empíricos aplicados à economia e áreas afins.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Prefácio</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#abordagem",
+    "href": "index.html#abordagem",
+    "title": "Acessando os Dados do IBGE",
+    "section": "1.3 Abordagem",
+    "text": "1.3 Abordagem\nA proposta adota uma metodologia prática e didática: - 🚀 Acesso: instruções claras para baixar e abrir bases do IBGE; - 🛠️ Manipulação: técnicas para vincular indivíduos a famílias, tratar rendas, escolaridade e ocupação; - 📊 Análise: exemplos de estatísticas descritivas, construção de indicadores e preparação para modelos econométricos; - 🎓 Aplicação: exercícios guiados que simulam situações reais de pesquisa em economia social e aplicada. Dessa forma, o repositório pretende ser um ponto de apoio contínuo para alunos e pesquisadores, promovendo a integração entre teoria e prática no uso de dados socioeconômicos.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Prefácio</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  Introdução",
+    "section": "",
+    "text": "2.1 📊 PNAD Contínua (Pesquisa Nacional por Amostra de Domicílios Contínua)\nNeste tutorial, trabalharemos com algumas das principais bases de dados disponibilizadas pelo IBGE, que reúnem informações fundamentais para análises em economia e ciências sociais.\nCada pesquisa possui um foco específico, mas em conjunto permitem compreender melhor as condições de vida, renda, consumo, saúde e educação da população brasileira.\nLevantamento amostral que acompanha a evolução do mercado de trabalho e outras características socioeconômicas da população.\nFornece informações detalhadas sobre:\n- 👨‍👩‍👧‍👦 Composição dos domicílios\n- 🎓 Escolaridade\n- 💼 Emprego, desemprego e rendimento do trabalho\n- 📍 Características demográficas",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introdução</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#pof-pesquisa-de-orçamentos-familiares",
+    "href": "intro.html#pof-pesquisa-de-orçamentos-familiares",
+    "title": "2  Introdução",
+    "section": "2.2 🛒 POF (Pesquisa de Orçamentos Familiares)",
+    "text": "2.2 🛒 POF (Pesquisa de Orçamentos Familiares)\nPesquisa que investiga padrões de consumo, despesas e rendimentos das famílias.\nPermite analisar:\n- 🥗 Estrutura de gastos e consumo\n- 💰 Rendimento e desigualdade de consumo\n- 📈 Subsídios para o cálculo da inflação oficial (IPCA)",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introdução</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#pns-pesquisa-nacional-de-saúde",
+    "href": "intro.html#pns-pesquisa-nacional-de-saúde",
+    "title": "2  Introdução",
+    "section": "2.3 🏥 PNS (Pesquisa Nacional de Saúde)",
+    "text": "2.3 🏥 PNS (Pesquisa Nacional de Saúde)\nBase que coleta informações sobre saúde, estilo de vida e acesso a serviços de saúde da população brasileira.\nInclui dados sobre:\n- ❤️ Condições de saúde e doenças crônicas\n- 🩺 Uso de serviços médicos e acesso a planos de saúde\n- 🍎 Hábitos alimentares e práticas de atividade física",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introdução</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#censo-demográfico-ibge",
+    "href": "intro.html#censo-demográfico-ibge",
+    "title": "2  Introdução",
+    "section": "2.4 🗺️ Censo Demográfico (IBGE)",
+    "text": "2.4 🗺️ Censo Demográfico (IBGE)\nRealizado a cada 10 anos, o Censo Demográfico é a principal fonte de informações sobre a população brasileira.\nAbrange todos os domicílios do país e fornece dados sobre:\n- 👤 Estrutura etária, sexo e características demográficas\n- 📚 Escolaridade e nível de instrução\n- 🏠 Habitação e condições de moradia\n- 💼 Ocupação, renda e mobilidade populacional\n- 🌎 Distribuição territorial e características regionais\n\n📌 Em conjunto, essas bases oferecem um panorama abrangente da realidade socioeconômica brasileira, permitindo análises integradas sobre renda, trabalho, saúde, consumo e educação.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introdução</span>"
+    ]
+  },
+  {
+    "objectID": "PNADc.html",
+    "href": "PNADc.html",
+    "title": "3  📊 Introdução à PNAD Contínua",
+    "section": "",
+    "text": "Antes de começarmos a trabalhar com a PNAD Contínua, é importante entender um pouco sobre o que essa pesquisa representa e por que ela é tão relevante para análises em economia e ciências sociais. A PNAD Contínua, realizada pelo IBGE, é um levantamento amostral que coleta informações detalhadas e contínuas sobre a população brasileira, substituindo a antiga PNAD anual. Ela tem como foco principal o mercado de trabalho, mas também registra uma série de características demográficas e socioeconômicas da população.\nEssa pesquisa é especialmente valiosa porque nos permite acompanhar tendências ao longo do tempo. Por exemplo, conseguimos observar como a ocupação, o desemprego e a renda das pessoas mudam de mês para mês ou de ano para ano. Além disso, ela fornece informações sobre a escolaridade da população, composição dos domicílios, idade, sexo, cor ou raça, e outros atributos que são essenciais para entender desigualdades e padrões sociais no Brasil.\nAo trabalhar com a PNAD Contínua, vamos aprender não apenas a acessar os dados, mas também a organizá-los e manipulá-los de forma a extrair informações relevantes. Vamos ver como vincular indivíduos a famílias, analisar renda familiar e pessoal, estudar a escolaridade de diferentes grupos e explorar características do mercado de trabalho, como tipo de ocupação e setor de atividade. Essas manipulações são fundamentais para qualquer análise socioeconômica séria, porque nos permitem ir além de simples médias e propor inferências sobre a população como um todo.\nDurante esta seção, nosso objetivo é que você se familiarize com os dados da PNAD Contínua de forma prática. Vamos aprender a abrir os arquivos, compreender a estrutura dos microdados, identificar as principais variáveis, preparar os dados para análise e, finalmente, começar a realizar explorações que nos ajudem a entender melhor o perfil socioeconômico da população brasileira. Ao final, você deverá se sentir confortável em manipular a PNAD Contínua e usar seus dados em análises próprias, entendendo como cada variável se relaciona com o contexto mais amplo da sociedade.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>📊 Introdução à PNAD Contínua</span>"
+    ]
+  }
+]

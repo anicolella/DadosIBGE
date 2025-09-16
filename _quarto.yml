@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 book:
-  title: "Jurimetria"
-  subtitle: "Compreendendo as Desigualdades"
+  title: "Acessando os Dados do IBGE"
+  subtitle: "Noções Básicas e Manipulações Importantes "
   navbar:
     background: "#283747"
     search: true
@@ -28,16 +28,16 @@ book:
   date: "03/12/2024"
   chapters:
       - index.qmd
-      #- intro.qmd
-      - summary.qmd
+      - intro.qmd
+      - PNADc.qmd
       #- pesquisa.qmd
-      - manipulacao.qmd
-      - googledrive.qmd
-      - dplyr.qmd
-      - descritiva_v2.qmd
-      - estatistica.qmd
-      - lineares.qmd
-      - outrosmodelos.qmd
+      #- manipulacao.qmd
+      #- googledrive.qmd
+      #- dplyr.qmd
+      #- descritiva_v2.qmd
+      #- estatistica.qmd
+      #- lineares.qmd
+      #- outrosmodelos.qmd
       #- aprendizado.qmd
       #- interpretando.qmd
       #- dicionario.qmd

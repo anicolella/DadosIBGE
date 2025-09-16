@@ -2,12 +2,18 @@
 
 ## **Motivação**
 
-Este  *Curso de Extensão em Jurimetria* foi desenvolvido para a Escola Superior do Ministério Público (ESMP), com o objetivo de integrar abordagens jurídicas e analíticas. Nossa proposta é explorar  a estruturação de informações em direito e como métodos quantitativos podem ampliar a compreensão e análise das questões de jurídicas, fornecendo uma fonte de informação robusta e estratégica para melhor tomada de decisão.
+O acesso a bases de dados públicas do **IBGE**, como PNAD, POF, PNS e o Censo, é fundamental para análises econômicas e sociais de qualidade. No entanto, muitos estudantes e profissionais enfrentam dificuldades na extração, organização e manipulação dessas informações, o que limita o potencial de pesquisa e a construção de evidências robustas. Este projeto nasce da necessidade de democratizar o uso dessas bases, fornecendo materiais acessíveis que orientem o aprendizado prático em torno de variáveis-chave como educação, renda e condições de trabalho.
 
 ## **Objetivo**
 
-Capacitar os participantes no uso de ferramentas e métodos quantitativos aplicados ao direito, com ênfase em casos práticos. O curso abordará desde a coleta e transformação de dados jurídicos até a análise probabilística e modelos, auxiliando os participantes a interpretar padrões e tendências a partir de informações extraídas de tribunais e demais fontes públicas.
+Nosso propósito é capacitar alunos, profissionais e pesquisadores a trabalhar com microdados do **IBGE**, desenvolvendo competências em manipulação, organização e análise estatística. O repositório servirá como guia prático, apresentando exemplos de como estruturar bases, construir indicadores e interpretar informações socioeconômicas. Além disso, o projeto busca estimular a autonomia dos interessados na realização de trabalhos empíricos aplicados à economia e áreas afins.
+
 
 ## **Abordagem**
 
-Adotaremos uma metodologia prática, utilizando casos reais para demonstrar como os métodos quantitativos podem ser aplicados a diferentes áreas do direito. O foco será em capacitar os participantes a desenvolver análises fundamentadas que contribuam para decisões mais eficientes e justas.
+A proposta adota uma metodologia prática e didática:
+- 🚀 Acesso: instruções claras para baixar e abrir bases do IBGE;
+- 🛠️ Manipulação: técnicas para vincular indivíduos a famílias, tratar rendas, escolaridade e ocupação;
+- 📊 Análise: exemplos de estatísticas descritivas, construção de indicadores e preparação para modelos econométricos;
+- 🎓 Aplicação: exercícios guiados que simulam situações reais de pesquisa em economia social e aplicada.
+Dessa forma, o repositório pretende ser um ponto de apoio contínuo para alunos e pesquisadores, promovendo a integração entre teoria e prática no uso de dados socioeconômicos.

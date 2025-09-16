@@ -1,3 +1,46 @@
-# Introdução ao Feminicídio
+# Introdução 
 
-Nessa seção pensei em falarmos um pouco no no caso referências etc....
+Neste tutorial, trabalharemos com algumas das principais bases de dados disponibilizadas pelo **IBGE**, que reúnem informações fundamentais para análises em economia e ciências sociais.  
+Cada pesquisa possui um foco específico, mas em conjunto permitem compreender melhor as condições de vida, renda, consumo, saúde e educação da população brasileira.  
+
+## 📊 PNAD Contínua (Pesquisa Nacional por Amostra de Domicílios Contínua)  
+Levantamento amostral que acompanha a evolução do mercado de trabalho e outras características socioeconômicas da população.  
+Fornece informações detalhadas sobre:  
+- 👨‍👩‍👧‍👦 Composição dos domicílios  
+- 🎓 Escolaridade  
+- 💼 Emprego, desemprego e rendimento do trabalho  
+- 📍 Características demográficas  
+
+---
+
+## 🛒 POF (Pesquisa de Orçamentos Familiares)  
+Pesquisa que investiga padrões de consumo, despesas e rendimentos das famílias.  
+Permite analisar:  
+- 🥗 Estrutura de gastos e consumo  
+- 💰 Rendimento e desigualdade de consumo  
+- 📈 Subsídios para o cálculo da inflação oficial (IPCA)  
+
+---
+
+## 🏥 PNS (Pesquisa Nacional de Saúde)  
+Base que coleta informações sobre saúde, estilo de vida e acesso a serviços de saúde da população brasileira.  
+Inclui dados sobre:  
+- ❤️ Condições de saúde e doenças crônicas  
+- 🩺 Uso de serviços médicos e acesso a planos de saúde  
+- 🍎 Hábitos alimentares e práticas de atividade física  
+
+---
+
+## 🗺️ Censo Demográfico (IBGE)  
+Realizado a cada 10 anos, o **Censo Demográfico** é a principal fonte de informações sobre a população brasileira.  
+Abrange todos os domicílios do país e fornece dados sobre:  
+- 👤 Estrutura etária, sexo e características demográficas  
+- 📚 Escolaridade e nível de instrução  
+- 🏠 Habitação e condições de moradia  
+- 💼 Ocupação, renda e mobilidade populacional  
+- 🌎 Distribuição territorial e características regionais  
+
+---
+
+📌 **Em conjunto**, essas bases oferecem um panorama abrangente da realidade socioeconômica brasileira, permitindo análises integradas sobre **renda, trabalho, saúde, consumo e educação**.  
+
