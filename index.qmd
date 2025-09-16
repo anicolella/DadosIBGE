@@ -1,0 +1,13 @@
+# Prefácio
+
+## **Motivação**
+
+Este  *Curso de Extensão em Jurimetria* foi desenvolvido para a Escola Superior do Ministério Público (ESMP), com o objetivo de integrar abordagens jurídicas e analíticas. Nossa proposta é explorar  a estruturação de informações em direito e como métodos quantitativos podem ampliar a compreensão e análise das questões de jurídicas, fornecendo uma fonte de informação robusta e estratégica para melhor tomada de decisão.
+
+## **Objetivo**
+
+Capacitar os participantes no uso de ferramentas e métodos quantitativos aplicados ao direito, com ênfase em casos práticos. O curso abordará desde a coleta e transformação de dados jurídicos até a análise probabilística e modelos, auxiliando os participantes a interpretar padrões e tendências a partir de informações extraídas de tribunais e demais fontes públicas.
+
+## **Abordagem**
+
+Adotaremos uma metodologia prática, utilizando casos reais para demonstrar como os métodos quantitativos podem ser aplicados a diferentes áreas do direito. O foco será em capacitar os participantes a desenvolver análises fundamentadas que contribuam para decisões mais eficientes e justas.

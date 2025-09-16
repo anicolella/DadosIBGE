@@ -1,0 +1,57 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Jurimetria"
+  subtitle: "Compreendendo as Desigualdades"
+  navbar:
+    background: "#283747"
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      #- intro.qmd
+      #- summary.qmd
+      #- pesquisa.qmd
+      #- interpretando.qmd
+    right:
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+  sidebar:
+    background: "#F4F6F6"
+    search: true
+  image: logo_fdrp.png
+  page-navigation: true
+  author: "Alexandre Nicolella"
+  date: "03/12/2024"
+  chapters:
+      - index.qmd
+      #- intro.qmd
+      - summary.qmd
+      #- pesquisa.qmd
+      - manipulacao.qmd
+      - googledrive.qmd
+      - dplyr.qmd
+      - descritiva_v2.qmd
+      - estatistica.qmd
+      - lineares.qmd
+      - outrosmodelos.qmd
+      #- aprendizado.qmd
+      #- interpretando.qmd
+      #- dicionario.qmd
+      #- references.qmd
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+editor: visual
+
