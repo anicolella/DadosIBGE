@@ -8,3 +8,9 @@ Ao trabalhar com a PNAD Contínua, vamos aprender não apenas a acessar os dados
 
 
 Durante esta seção, nosso objetivo é que você se familiarize com os dados da PNAD Contínua de forma prática. Vamos aprender a abrir os arquivos, compreender a estrutura dos microdados, identificar as principais variáveis, preparar os dados para análise e, finalmente, começar a realizar explorações que nos ajudem a entender melhor o perfil socioeconômico da população brasileira. Ao final, você deverá se sentir confortável em manipular a PNAD Contínua e usar seus dados em análises próprias, entendendo como cada variável se relaciona com o contexto mais amplo da sociedade.
+
+## Traçando um Objetivo de Análise
+
+Muito importante termos um objetivo de trabalho bem definido antes de começarmos a manipular os dados da PNAD Contínua. Ter clareza sobre o que queremos analisar nos ajudará a focar nas variáveis relevantes e a estruturar nossa abordagem de forma eficiente.
+
+Por exemplo, podemos estar interessados em entender a relação entre escolaridade e renda no Brasil. Nesse caso, nosso objetivo seria analisar como diferentes níveis de escolaridade impactam os rendimentos das pessoas. Com esse objetivo em mente, podemos identificar as variáveis que precisamos extrair da PNAD Contínua, como nível de instrução, renda mensal, idade, sexo e região geográfica.
